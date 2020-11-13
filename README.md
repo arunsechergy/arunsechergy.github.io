@@ -1,5 +1,3 @@
-## Welcome to ArunSechergy's page
-
 ### Understanding fundamentals of PyTorch
 - CUDA
 	 1. To understand CUDA, we need to understand what GPU is.  GPU (Graphics Processing Unit) is a hardware used for specialized computing tasks. As the name suggests, this was initialized developed to process graphics faster than CPU. GPU processes faster due to its parallel computing property that is, GPU can break down an long independent task into smaller tasks and run all those tasks in parallel. 
