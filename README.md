@@ -1,4 +1,4 @@
-<h2 align="center"> Arun Kumar RN </h2>
+<h2 align="left"> Arun Kumar RN </h2>
 
 <div align="left">
 <img src="src/me.png" >
