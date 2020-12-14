@@ -1,6 +1,6 @@
 <h2 align="left"> Arun Kumar RN </h2>
 
-<div align="left" style="height:128px;width:128px">
+<div align="left" style="height:200px;width:200px">
 <img src="src/me.png" style="width:100%; height:100%">
 </div>
 
