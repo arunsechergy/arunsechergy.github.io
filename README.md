@@ -1,7 +1,7 @@
 <h2 align="left"> Arun Kumar RN </h2>
 
-<div align="left">
-<img src="src/me.png" >
+<div align="left" style="height:64px;width:64px">
+<img src="src/me.png" style="width:100%; height:100%">
 </div>
 
 Data Scientist at Enquero<br/>
